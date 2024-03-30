@@ -1,10 +1,4 @@
-# WAVELENGTH obfuscator
+# wavelength - express lua obfuscation
 
-Features:
-* Instruction Shuffle
-* Constant Shuffle
-* Junk code/constants/strings
-* Pocket VM
-* .. More!
 
-Glacier Softworks
+indev, has instruction/constant shuffling, junk code/junk strings and pocket virtuallization + more
