@@ -1,0 +1,19 @@
+{
+  "name": "WAVELENGTH",
+  "version": "1.0.0",
+  "description": "highly secure lua obfuscator by gnaa",
+  "main": "run.js",
+  "scripts": {
+    "test": "node .",
+    "obfuscate": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gnaa.gay"
+  },
+  "keywords": [
+    "WAVELENGTH"
+  ],
+  "author": "evan",
+  "license": "MIT"
+}
