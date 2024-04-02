@@ -10,7 +10,7 @@ let DefaultSettings = {
     'BeautifyDebug': true,
     'PrintStep': true,
     'JIT': true,
-    'Watermark' : 'sex :3',
+    'Watermark' : 'wavelength gnaa',
     'Uid': '2',
 
     'AntiTamper': true,
