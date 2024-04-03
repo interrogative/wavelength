@@ -2,3 +2,5 @@
 
 
 indev, has instruction/constant shuffling, junk code/junk strings and pocket virtuallization + more
+
+requires lua 5.1
